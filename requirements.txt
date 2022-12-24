@@ -1,0 +1,2 @@
+pip install PyAutoGUI
+pip install tk
